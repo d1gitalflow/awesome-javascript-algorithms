@@ -22,3 +22,7 @@ See our [directory](DIRECTORY.md).
 ## Algorithm Explanation
 
 see our [wiki](https://github.com/TheAlgorithms/Javascript/wiki)
+
+## My blog
+
+[d1gitalflow.com](https://d1gitalflow.com)
